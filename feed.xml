@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Aug 2017 20:13:29 -1100</pubDate>
-    <lastBuildDate>Sun, 06 Aug 2017 20:13:29 -1100</lastBuildDate>
+    <pubDate>Mon, 07 Aug 2017 07:20:23 +0000</pubDate>
+    <lastBuildDate>Mon, 07 Aug 2017 07:20:23 +0000</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
@@ -24,9 +24,44 @@
 
 &lt;p&gt;Colorful blocks image via Shutterstock&lt;/p&gt;
 </description>
-        <pubDate>Mon, 30 Oct 2017 13:00:00 -1100</pubDate>
+        <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
         <link>http://yourdomain.com/event/bitcoin-cash-block-production-accelerates-as-mining-difficulty-adjusts.html</link>
         <guid isPermaLink="true">http://yourdomain.com/event/bitcoin-cash-block-production-accelerates-as-mining-difficulty-adjusts.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>OTC Trade Group: Blockchain Smart Contracts Could Spark Interpretation Challenges</title>
+        <description>&lt;p&gt;Smart contracts may only see limited real-world applications in the near future, according to a new research paper.&lt;/p&gt;
+
+&lt;p&gt;The paper, released by the International Swaps and Derivatives Association (a New York-based trade group for over-the-counter derivatives firms) and London-based law firm Linklaters LLP, casts a broad overview on smart contracts and distributed ledger tech. The ISDA, formed in the 1980’s, counts more than 800 firms among its membership, according to the group’s website.&lt;/p&gt;
+
+&lt;p&gt;It notably posits that the use of such contracts, which are self-executing pieces of code tied to certain conditions, are more likely to be used only in particular instances.&lt;/p&gt;
+
+&lt;p&gt;The paper’s authors argue:&lt;/p&gt;
+
+&lt;p&gt;“Certain operational clauses within legal contracts lend themselves to being automated. Other non-operational clauses – for instance, the governing law of a contract – are less susceptible to being expressed in machine-readable code. Some legal clauses are subjective or require interpretation, which also creates challenges.”&lt;/p&gt;
+
+&lt;p&gt;Operational clauses, according to the paper, refer to more objective legal actions, for example one that requires a payment on a certain date based on an amount calculated by the nature of a work.&lt;/p&gt;
+
+&lt;p&gt;“It is assumed the most likely implementations of smart contracts in the near term will relate to operational clauses…rather than to non-operational clauses,” the report reads.&lt;/p&gt;
+
+&lt;p&gt;Non-operational clauses, on the other hand, are more subjective to human interpretations, such as when the law should be applied under certain conditions. The paper’s authors state that in their view, programmable contracts bay not be able to account for the subjective nuances that exist in human interpretation.&lt;/p&gt;
+
+&lt;p&gt;“For example, if an event of default occurs under an ISDA Master Agreement, this gives the non-defaulting party the right to terminate outstanding transactions. But the non-defaulting party might decide it does not want to exercise such a termination right at that time…depending on the commercial and relationship context at the time of the event, the nature of the default, and other external factors,” the paper noted.&lt;/p&gt;
+
+&lt;p&gt;But even within those operational clauses, the authors suggest that a more standardized definition of complicated terms and activities need to be outlined before the smart contracts can be put into work.&lt;/p&gt;
+
+&lt;p&gt;“This would require those actions – for instance, payments and deliveries – to be represented in a more formal, standard way within the ISDA Definitions, enabling them to be read by machines,” the paper concluded.&lt;/p&gt;
+
+&lt;p&gt;Contract image via Shutterstock&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-size: 1rem;&quot;&gt;The full ISDA paper can be found below:&lt;/span&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+        <link>http://yourdomain.com/event/otc-trade-group-blockchain-smart-contracts-could-spark-interpretation-challenges.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/event/otc-trade-group-blockchain-smart-contracts-could-spark-interpretation-challenges.html</guid>
         
         
       </item>
@@ -38,7 +73,7 @@
 &lt;p&gt;Please come along if your interested. Pizza will be provided.&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 06 Aug 2017 13:00:00 -1100</pubDate>
+        <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
         <link>http://yourdomain.com/event/four-quadrants-dividing-conquering-crypto-universe.html</link>
         <guid isPermaLink="true">http://yourdomain.com/event/four-quadrants-dividing-conquering-crypto-universe.html</guid>
         
@@ -51,7 +86,7 @@
 
 &lt;p&gt;Please come along if your interested. Pizza will be provided.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 05 Aug 2017 00:00:00 -1100</pubDate>
+        <pubDate>Sat, 05 Aug 2017 00:00:00 +0000</pubDate>
         <link>http://yourdomain.com/event/bitcoin-cash-questions-answers-questions.html</link>
         <guid isPermaLink="true">http://yourdomain.com/event/bitcoin-cash-questions-answers-questions.html</guid>
         
@@ -64,7 +99,7 @@
 
 &lt;p&gt;Please come along if your interested. Pizza will be provided.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 04 Aug 2017 00:00:00 -1100</pubDate>
+        <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
         <link>http://yourdomain.com/event/bitcoin-cash-questions-answers-questions.html</link>
         <guid isPermaLink="true">http://yourdomain.com/event/bitcoin-cash-questions-answers-questions.html</guid>
         
@@ -77,7 +112,7 @@
 
 &lt;p&gt;Please come along if your interested. Pizza will be provided.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 03 Aug 2017 00:00:00 -1100</pubDate>
+        <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
         <link>http://yourdomain.com/event/bitcoin-cash-questions-answers-questions.html</link>
         <guid isPermaLink="true">http://yourdomain.com/event/bitcoin-cash-questions-answers-questions.html</guid>
         
@@ -90,7 +125,7 @@
 
 &lt;p&gt;Please come along if your interested. Pizza will be provided.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 02 Aug 2017 00:00:00 -1100</pubDate>
+        <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
         <link>http://yourdomain.com/event/every-token-snowflake-secs-ico-guidance-isnt-enough.html</link>
         <guid isPermaLink="true">http://yourdomain.com/event/every-token-snowflake-secs-ico-guidance-isnt-enough.html</guid>
         
@@ -103,7 +138,7 @@
 
 &lt;p&gt;Please come along if your interested. Pizza will be provided.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 01 Aug 2017 00:00:00 -1100</pubDate>
+        <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
         <link>http://yourdomain.com/event/bitcoin-fork-blues-new-yorkers-threw-party-instead.html</link>
         <guid isPermaLink="true">http://yourdomain.com/event/bitcoin-fork-blues-new-yorkers-threw-party-instead.html</guid>
         
